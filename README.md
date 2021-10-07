@@ -53,9 +53,9 @@
 ## Available Demo Accounts
 | :closed_lock_with_key: Username | :old_key: Password |
 |----------|----------|
-| **``mert@mail.com``**| **12345**|
-| **``selen@mail.com``**| **1234**|
 | **``aydin@mail.com``**| **12345**|
+| **``selen@mail.com``**| **1234**|
+| **``mert@mail.com``**| **12345**|
 | **``demo@mail.com``**| **12345**|
 
 ## Roles of Existing Available Demo Accounts
