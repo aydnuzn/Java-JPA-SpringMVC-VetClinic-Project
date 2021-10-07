@@ -159,4 +159,5 @@
 ### Contact Me For More Information  
 
 <a href="https://www.linkedin.com/in/aydın-uzun-a251b01a3" target="_blank">LinkedIn</a>
+</br>
 <a href="mailto:uzun.aydinn@gmail.com" target="_blank">Gmail</a>
