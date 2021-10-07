@@ -61,9 +61,9 @@
 ## Roles of Existing Available Demo Accounts
 | :lock_with_ink_pen: Username | ROLE_ADMIN | ROLE_DOCTOR | ROLE_SECRETARY | ROLE_BEGINNER
 |----------|----------|----------|----------|----------|
-| **``mert@mail.com``**| X | X | X | X 
-| **``selen@mail.com``**| X | X | X | X 
 | **``aydin@mail.com``**| X | X | X | X 
+| **``selen@mail.com``**| X | X | X | X 
+| **``mert@mail.com``**| X | X | X | X 
 | **``demo@mail.com``**|  |  |  | X 
 
 
