@@ -20,8 +20,6 @@
 |      Thymeleaf        |
 |      JavaScript       |
 |        jQuery         |
-|         HTML          |
-|         CSS           |
 |       Bootstrap 5     |
 |         MySql         |
 
